@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Saad Ahmed Khanzada</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=480&lines=Full-Stack+Developer+%7C+React+Native+Enthusiast;Frontend+Specialist+turned+Full-Stack+Engineer;Passionate+about+clean+UIs+and+smart+APIs;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Passionate+Developer;Lets+build+something+amazing+together!" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
