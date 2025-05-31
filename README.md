@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Saad Ahmed Khanzada</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Lets+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines= Lets+build+something+amazing+together!" alt="Typing SVG" />
 
 </p>
 
