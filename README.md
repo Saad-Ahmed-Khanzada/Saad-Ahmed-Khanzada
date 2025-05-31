@@ -21,7 +21,7 @@
 ### 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Saad-Ahmed-Khanzada&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
