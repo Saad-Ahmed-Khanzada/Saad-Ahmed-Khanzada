@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-🎓 Computer Science graduate with 2 years of experience building seamless mobile and web experiences.  
+🎓 Computer Science graduate with 2+ years of experience building seamless mobile and web experiences.  
 ⚡ Specialized in **React Native**, **SvelteKit**, **Next.js**, **Firebase**, and scalable architectures.  
 🚀 Improved user experience & performance across projects — from startups to enterprise portals.  
 👨‍💻 Led development teams and shipped production apps in **telecom**, **e-commerce**, **fitness**, and **finance** domains.  
